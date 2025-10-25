@@ -19,6 +19,7 @@ I chose Markdown because Large Language Models (LLMs) love it. Feel free to use 
 
 - [Learn the night sky with free planetarium applications](./articles/Astronomy/FreePlanetariumApps.md)
 - [How to shoot star trails with your smartphone](./articles/Astronomy/StarTrailsWithSmartphone.md)
+- [How to make star trails and time-lapses with Python](./articles/Astronomy/PythonStarTrails.md)
 
 ## License
 
