@@ -9,6 +9,10 @@ I chose Markdown because Large Language Models (LLMs) love it. Feel free to use 
 
 ## Articles
 
+### Linux
+
+- [Fix kernel panic on Linux](./articles/Linux/FixKernelPanicLinux.md)
+
 ### Elasticsearch
 
 - [Change the heap size](./articles/Elasticsearch/ElasticsearchChangeHeapSize.md)
