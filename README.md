@@ -13,6 +13,10 @@ I chose Markdown because Large Language Models (LLMs) love it. Feel free to use 
 
 - [Fix kernel panic on Linux](./articles/Linux/FixKernelPanicLinux.md)
 
+### Inkscape
+
+- [Remove hidden data to reduce file size](./articles/Inkscape/InkscapeCleanUpDocument.md)
+
 ### Elasticsearch
 
 - [Change the heap size](./articles/Elasticsearch/ElasticsearchChangeHeapSize.md)
