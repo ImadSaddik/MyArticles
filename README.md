@@ -29,6 +29,10 @@ I chose Markdown because Large Language Models (LLMs) love it. Feel free to use 
 - [How to shoot star trails with your smartphone](./articles/Astronomy/StarTrailsWithSmartphone.md)
 - [How to make star trails and time-lapses with Python](./articles/Astronomy/PythonStarTrails.md)
 
+## DevOps
+
+- [How to set up a secure cloud server with Ubuntu and SSH](./articles/DevOps/HowToSetUpASecureCloudServerWithUbuntuAndSSH.md)
+
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
