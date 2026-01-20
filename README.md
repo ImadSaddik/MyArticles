@@ -33,6 +33,10 @@ I chose Markdown because Large Language Models (LLMs) love it. Feel free to use 
 
 - [How to set up a secure cloud server with Ubuntu and SSH](./articles/DevOps/HowToSetUpASecureCloudServerWithUbuntuAndSSH.md)
 
+## AI
+
+- [How to build your own local AI stack on Linux with llama.cpp, llama-swap, LibreChat and more](./articles/AI/LocalAIStackOnLinux.md)
+
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
