@@ -32,6 +32,7 @@ I chose Markdown because Large Language Models (LLMs) love it. Feel free to use 
 ## DevOps
 
 - [How to set up a secure cloud server with Ubuntu and SSH](./articles/DevOps/HowToSetUpASecureCloudServerWithUbuntuAndSSH.md)
+- [How to configure a firewall with UFW and Fail2Ban](./articles/DevOps/HowToConfigureFirewallWithUFWAndFail2Ban.md)
 
 ## AI
 
